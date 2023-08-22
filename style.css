@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+div{
+    display: flex;
+    margin: auto;
+    margin-top: 15px;
+}
+li{
+    margin-top: 5px;
+}
